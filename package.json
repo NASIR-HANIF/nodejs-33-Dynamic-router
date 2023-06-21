@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-33-router",
+  "version": "1.0.0",
+  "description": "express routing dynamic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nasir",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
